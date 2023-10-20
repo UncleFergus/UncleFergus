@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UncleFergus
 - 👀 I’m interested in Cyber Security, Python, and IT in General! Also, I like Star Wars. Alot!
-- 🌱 I’m currently learning Powershell, Python, Cyber Security. 
+- 🌱 I’m currently learning Powershell, SQL, Python, Cyber Security. 
 - 📫 How to reach me: Linkedin. 
 
 <!---
